@@ -20,3 +20,8 @@ send a timely alert to concern officials of CWC for mitigation and remedial acti
 • DHT11
 • Connecting wires
 • Breadboard
+
+:)  Software
+
+•Arduino 
+•ThingSpeak
